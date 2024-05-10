@@ -28,7 +28,7 @@ To deploy and interact with the smart contract, follow these steps:
 
 testing the smart contract
  Using solc compiler
-solc ExampleContract.sol
+solc aramideContaract.sol
 
 Using Truffle
 truffle compile
