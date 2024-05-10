@@ -27,19 +27,21 @@ To deploy and interact with the smart contract, follow these steps:
 ## Testing
 
 testing the smart contract
-# Using solc compiler
+ Using solc compiler
 solc ExampleContract.sol
 
-# Using Truffle
+Using Truffle
 truffle compile
 
-# Using Hardhat
+ Using Hardhat
 npx hardhat compile
 
 
 ## Contributing
 
 Contributions are welcome!
+##Authors
+Aramide Ibrahim Eniola
 
 ## License
 
